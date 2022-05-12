@@ -1,7 +1,7 @@
 # Storytime Reading Tracker
 _This application was developed and presented in the final 2 weeks of my time at Tech Elevator's Full-Stack Java Development Bootcamp_
 
-A live version of this application is available [here.](https://storytime-reading-tracker.netlify.app/ "Storytime App")
+A live version of this application is available [here.](https://storytime-reading-tracker.netlify.app/login)
 
 ## Description
 
@@ -11,7 +11,7 @@ A live version of this application is available [here.](https://storytime-readin
 
 ## Technology Used
 
-Vue.js, Java, Spring, PostgreSQL
+Vue.js, Java, Spring, PostgreSQL, HTML, CSS, JavaScript
 
 ## Feature List 
 
